@@ -4,13 +4,13 @@ Daily
 ---
 __Study study and study__  
 Produce high quality trash
-While sometimes working on Data-packs and plugins
+While sometimes working on Data-packs and plugins and newly maybe graphical sutffs
 
 Stats
 ---
 [![Github Stats](https://github-readme-stats-two-pi.vercel.app/api?username=Untitled&show_icons=true)](https://github.com/Untitled/)  
 [![Top Langs](https://github-readme-stats-two-pi.vercel.app/api/top-langs/?username=Untitled&layout=compact)](https://github.com/Untitled/)  
-*That's not fortran, that is our absolutely perfect new language MCFunction++!!*
+*That's not fortran, that is our absolutely perfect new language MCFunction++!! (though deprecated lol)*
 
 Toys
 ---
@@ -19,12 +19,7 @@ And more useless ones!
 
 Programming
 ---
-__Dislike python__
-
-Minecraft
----
-MinerTribe
-Love commands
+__Dislike python_
 
 Contact
 ---
